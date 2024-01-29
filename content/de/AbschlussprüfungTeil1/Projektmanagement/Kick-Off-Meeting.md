@@ -8,16 +8,12 @@ description: "Das Kick-Off-Meeting findet nach erfolgter Projektplanung und vor 
 
 ## Ziele des Kick Off Meetings
 
-
 - Kennenlernen innerhalb des Teams
 - Gleicher Wissensstand bezüglich Projektzielen und -ablauf bei allen Beteiligten
 - Beseitigung von Unklarheiten
 - Teamgeist steigern
 - Motivation erhöhen
 
-
-<br>
-
-## Links
+## Links 🔗
 
 [Studyflix Kick Off Meeting](https://studyflix.de/wirtschaft/kick-off-meeting-7143)  

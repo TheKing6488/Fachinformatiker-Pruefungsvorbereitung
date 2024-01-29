@@ -28,6 +28,6 @@ description: "Die Stakeholderanalyse befasst sich mit der Identifizierung und An
 Die Stakeholderanalyse dient dazu, das Potenzial möglicher Zielkonflikte der einzelnen Interessengruppen rund um das Unternehmen bzw. das betrachtete Projekt so gering wie möglich zu halten.
 
 
-## Links
+## Links 🔗
 
 [BWL-LEXIKON Stakeholderanalyse](https://www.bwl-lexikon.de/wiki/stakeholderanalyse)  
