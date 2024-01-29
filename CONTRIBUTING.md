@@ -19,7 +19,7 @@ Wenn du deine Änderungen life im Browser sehen möchtest und alle verfügbaren 
 3. Führe `npm install -D postcss-cli` im Projekt aus
 4. Um die Seite im Browser zu sehen nutze `hugo serve`
 5. Ändere die Markdown Files wie im nächsten Kapitel beschrieben
-6. Wenn nötig lege eine Datei mit `hugo new <seitenName>.md`
+6. Wenn nötig lege eine Datei mit `hugo new content <ordnerName>/<seitenName>.md`
 
 ## Nur Content bearbeiten
 
